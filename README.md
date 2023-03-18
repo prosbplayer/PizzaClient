@@ -1,6 +1,9 @@
-# PizzaClient
-Features: Nuker fake rotation packets, QoL dungeon mods, Mithril macro, Gemstone macro, Farming macro (netherwart included), Powder macro, Auto terminals, Failsales for macros
+#Pizza Client
+Most notable features: (all auras and nukers use fake rotation packets) -Qol ice fill (still somewhat wip, works great for 150 or less ping) -Spirit Bear Aura (with triggerbot once a spirit bear spawns) -Simon Says Aura -Good Terminals -Mithril Macro -Gemstone Macro (still wip) -Nuker (good to use on hypixel) -Powder Macro (everything automatic, uses nuker for the block breaking) -Crop Aura (auto places any crop)
 
-Use /pizza to configure
-Use /skyskipped to set up extra failsafes so admins don't come after you
-There's a lot more things and explore to see what you want. Loads of QoL actions. Don't be too blatant and have fun :)
+All macros have failsafes, for example player detection or stop when getting warped out -Auto Enchanting -Auto Book Combine -Auto Salvage -Shoot terminator when left clicking with valk -Gemstone ESP -Hide Golden Goblins -Powder Chest Macro (there's also a mode to only use fake rotation to solve it) -Item Keybinds -Commission Esps -Alot of dungeon Esps -Auto Wardrobe -Anti sessionid stealer (works for getSessionID and getToken, still somewhat WIP?)
+
+There's still a shit ton more features, like a shit ton of esps and shit, but i cba mentioning them
+
+Upcoming: -Auto Fishing Macro -Pathfinding
+
